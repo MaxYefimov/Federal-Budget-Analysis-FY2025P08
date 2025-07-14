@@ -1,0 +1,1833 @@
+function_id,budget_function,budget_subfunction
+1,General Government,Legislative functions
+2,Administration of Justice,Federal litigative and judicial activities
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+4,International Affairs,International security assistance
+5,International Affairs,International financial programs
+4,International Affairs,International security assistance
+3,International Affairs,International development and humanitarian assistance
+5,International Affairs,International financial programs
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+7,Community and Regional Development,Community development
+8,Natural Resources and Environment,Water resources
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+9,Income Security,Housing assistance
+10,Agriculture,Farm income stabilization
+11,Community and Regional Development,Disaster relief and insurance
+6,Agriculture,Agricultural research and services
+12,Health,Consumer and occupational health and safety
+10,Agriculture,Farm income stabilization
+13,Community and Regional Development,Area and regional development
+11,Community and Regional Development,Disaster relief and insurance
+10,Agriculture,Farm income stabilization
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+10,Agriculture,Farm income stabilization
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+15,Energy,Energy supply
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+10,Agriculture,Farm income stabilization
+10,Agriculture,Farm income stabilization
+15,Energy,Energy supply
+13,Community and Regional Development,Area and regional development
+10,Agriculture,Farm income stabilization
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+7,Community and Regional Development,Community development
+13,Community and Regional Development,Area and regional development
+9,Income Security,Housing assistance
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+16,Commerce and Housing Credit,Mortgage credit
+3,International Affairs,International development and humanitarian assistance
+10,Agriculture,Farm income stabilization
+3,International Affairs,International development and humanitarian assistance
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+10,Agriculture,Farm income stabilization
+10,Agriculture,Farm income stabilization
+6,Agriculture,Agricultural research and services
+3,International Affairs,International development and humanitarian assistance
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+10,Agriculture,Farm income stabilization
+14,Natural Resources and Environment,Conservation and land management
+10,Agriculture,Farm income stabilization
+11,Community and Regional Development,Disaster relief and insurance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+17,Income Security,Food and nutrition assistance
+17,Income Security,Food and nutrition assistance
+17,Income Security,Food and nutrition assistance
+17,Income Security,Food and nutrition assistance
+17,Income Security,Food and nutrition assistance
+10,Agriculture,Farm income stabilization
+12,Health,Consumer and occupational health and safety
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+10,Agriculture,Farm income stabilization
+10,Agriculture,Farm income stabilization
+16,Commerce and Housing Credit,Mortgage credit
+6,Agriculture,Agricultural research and services
+13,Community and Regional Development,Area and regional development
+15,Energy,Energy supply
+13,Community and Regional Development,Area and regional development
+10,Agriculture,Farm income stabilization
+18,Natural Resources and Environment,Other natural resources
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+17,Income Security,Food and nutrition assistance
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+10,Agriculture,Farm income stabilization
+14,Natural Resources and Environment,Conservation and land management
+10,Agriculture,Farm income stabilization
+10,Agriculture,Farm income stabilization
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+10,Agriculture,Farm income stabilization
+6,Agriculture,Agricultural research and services
+14,Natural Resources and Environment,Conservation and land management
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+21,Income Security,Federal employee retirement and disability
+6,Agriculture,Agricultural research and services
+6,Agriculture,Agricultural research and services
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+13,Community and Regional Development,Area and regional development
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+24,Natural Resources and Environment,Pollution control and abatement
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+13,Community and Regional Development,Area and regional development
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+14,Natural Resources and Environment,Conservation and land management
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+19,General Government,General purpose fiscal assistance
+25,General Government,Other general government
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+25,General Government,Other general government
+25,General Government,Other general government
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+24,Natural Resources and Environment,Pollution control and abatement
+26,Natural Resources and Environment,Conservation and land management;Pollution control and abatement
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+27,Health,Health care services
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+13,Community and Regional Development,Area and regional development
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+13,Community and Regional Development,Area and regional development
+18,Natural Resources and Environment,Other natural resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+20,Natural Resources and Environment,Recreational resources
+18,Natural Resources and Environment,Other natural resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+8,Natural Resources and Environment,Water resources
+18,Natural Resources and Environment,Other natural resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+20,Natural Resources and Environment,Recreational resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+14,Natural Resources and Environment,Conservation and land management
+19,General Government,General purpose fiscal assistance
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+8,Natural Resources and Environment,Water resources
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+8,Natural Resources and Environment,Water resources
+13,Community and Regional Development,Area and regional development
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+14,Natural Resources and Environment,Conservation and land management
+13,Community and Regional Development,Area and regional development
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+14,Natural Resources and Environment,Conservation and land management
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+13,Community and Regional Development,Area and regional development
+18,Natural Resources and Environment,Other natural resources
+14,Natural Resources and Environment,Conservation and land management
+18,Natural Resources and Environment,Other natural resources
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+2,Administration of Justice,Federal litigative and judicial activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+31,Administration of Justice,Criminal justice assistance
+32,National Defense,Defense-related activities
+30,Administration of Justice,Federal law enforcement activities
+2,Administration of Justice,Federal litigative and judicial activities
+2,Administration of Justice,Federal litigative and judicial activities
+2,Administration of Justice,Federal litigative and judicial activities
+30,Administration of Justice,Federal law enforcement activities
+2,Administration of Justice,Federal litigative and judicial activities
+2,Administration of Justice,Federal litigative and judicial activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+2,Administration of Justice,Federal litigative and judicial activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+33,Administration of Justice,Federal correctional activities
+2,Administration of Justice,Federal litigative and judicial activities
+33,Administration of Justice,Federal correctional activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+33,Administration of Justice,Federal correctional activities
+30,Administration of Justice,Federal law enforcement activities
+2,Administration of Justice,Federal litigative and judicial activities
+31,Administration of Justice,Criminal justice assistance
+2,Administration of Justice,Federal litigative and judicial activities
+2,Administration of Justice,Federal litigative and judicial activities
+30,Administration of Justice,Federal law enforcement activities
+31,Administration of Justice,Criminal justice assistance
+31,Administration of Justice,Criminal justice assistance
+32,National Defense,Defense-related activities
+30,Administration of Justice,Federal law enforcement activities
+31,Administration of Justice,Criminal justice assistance
+33,Administration of Justice,Federal correctional activities
+34,"Education, Training, Employment, and Social Services",Training and employment
+34,"Education, Training, Employment, and Social Services",Training and employment
+35,Income Security,General retirement and disability insurance (excluding social se
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+20,Natural Resources and Environment,Recreational resources
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+37,International Affairs,Foreign information and exchange activities
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+14,Natural Resources and Environment,Conservation and land management
+3,International Affairs,International development and humanitarian assistance
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+4,International Affairs,International security assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+37,International Affairs,Foreign information and exchange activities
+29,International Affairs,Conduct of foreign affairs
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+29,International Affairs,Conduct of foreign affairs
+29,International Affairs,Conduct of foreign affairs
+5,International Affairs,International financial programs
+5,International Affairs,International financial programs
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+5,International Affairs,International financial programs
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+30,Administration of Justice,Federal law enforcement activities
+38,General Government,Central fiscal operations
+22,Commerce and Housing Credit,Other advancement of commerce
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+16,Commerce and Housing Credit,Mortgage credit
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+9,Income Security,Housing assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+39,"Education, Training, Employment, and Social Services",Social services
+9,Income Security,Housing assistance
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+42,Income Security,Other income security
+7,Community and Regional Development,Community development
+7,Community and Regional Development,Community development
+38,General Government,Central fiscal operations
+30,Administration of Justice,Federal law enforcement activities
+38,General Government,Central fiscal operations
+2,Administration of Justice,Federal litigative and judicial activities
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+43,Net Interest,Interest on Treasury debt securities (gross)
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+44,Net Interest,Other interest
+42,Income Security,Other income security
+42,Income Security,Other income security
+38,General Government,Central fiscal operations
+30,Administration of Justice,Federal law enforcement activities
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+42,Income Security,Other income security
+27,Health,Health care services
+22,Commerce and Housing Credit,Other advancement of commerce
+45,"Education, Training, Employment, and Social Services",Higher education
+19,General Government,General purpose fiscal assistance
+42,Income Security,Other income security
+42,Income Security,Other income security
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+15,Energy,Energy supply
+46,Energy,Energy conservation
+27,Health,Health care services
+27,Health,Health care services
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+22,Commerce and Housing Credit,Other advancement of commerce
+15,Energy,Energy supply
+46,Energy,Energy conservation
+46,Energy,Energy conservation
+38,General Government,Central fiscal operations
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+5,International Affairs,International financial programs
+19,General Government,General purpose fiscal assistance
+25,General Government,Other general government
+38,General Government,Central fiscal operations
+2,Administration of Justice,Federal litigative and judicial activities
+35,Income Security,General retirement and disability insurance (excluding social se
+45,"Education, Training, Employment, and Social Services",Higher education
+25,General Government,Other general government
+25,General Government,Other general government
+25,General Government,Other general government
+25,General Government,Other general government
+25,General Government,Other general government
+19,General Government,General purpose fiscal assistance
+19,General Government,General purpose fiscal assistance
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+31,Administration of Justice,Criminal justice assistance
+19,General Government,General purpose fiscal assistance
+31,Administration of Justice,Criminal justice assistance
+27,Health,Health care services
+44,Net Interest,Other interest
+25,General Government,Other general government
+44,Net Interest,Other interest
+44,Net Interest,Other interest
+44,Net Interest,Other interest
+44,Net Interest,Other interest
+7,Community and Regional Development,Community development
+38,General Government,Central fiscal operations
+22,Commerce and Housing Credit,Other advancement of commerce
+19,General Government,General purpose fiscal assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+41,Transportation,Air transportation
+19,General Government,General purpose fiscal assistance
+19,General Government,General purpose fiscal assistance
+3,International Affairs,International development and humanitarian assistance
+25,General Government,Other general government
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+30,Administration of Justice,Federal law enforcement activities
+38,General Government,Central fiscal operations
+5,International Affairs,International financial programs
+19,General Government,General purpose fiscal assistance
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+25,General Government,Other general government
+25,General Government,Other general government
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+38,General Government,Central fiscal operations
+35,Income Security,General retirement and disability insurance (excluding social se
+16,Commerce and Housing Credit,Mortgage credit
+22,Commerce and Housing Credit,Other advancement of commerce
+38,General Government,Central fiscal operations
+19,General Government,General purpose fiscal assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+30,Administration of Justice,Federal law enforcement activities
+19,General Government,General purpose fiscal assistance
+18,Natural Resources and Environment,Other natural resources
+18,Natural Resources and Environment,Other natural resources
+21,Income Security,Federal employee retirement and disability
+47,Commerce and Housing Credit,Deposit insurance
+7,Community and Regional Development,Community development
+13,Community and Regional Development,Area and regional development
+38,General Government,Central fiscal operations
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+20,Natural Resources and Environment,Recreational resources
+36,National Defense,Department of Defense-Military
+20,Natural Resources and Environment,Recreational resources
+36,National Defense,Department of Defense-Military
+48,Veterans Benefits and Services,Other veterans benefits and services
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+49,General Government,Central personnel management
+49,General Government,Central personnel management
+27,Health,Health care services
+49,General Government,Central personnel management
+21,Income Security,Federal employee retirement and disability
+49,General Government,Central personnel management
+49,General Government,Central personnel management
+21,Income Security,Federal employee retirement and disability
+27,Health,Health care services
+49,General Government,Central personnel management
+49,General Government,Central personnel management
+27,Health,Health care services
+21,Income Security,Federal employee retirement and disability
+21,Income Security,Federal employee retirement and disability
+27,Health,Health care services
+27,Health,Health care services
+47,Commerce and Housing Credit,Deposit insurance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+42,Income Security,Other income security
+50,Veterans Benefits and Services,Income security for veterans
+51,Social Security,Social security
+42,Income Security,Other income security
+52,Medicare,Medicare
+27,Health,Health care services
+51,Social Security,Social security
+51,Social Security,Social security
+51,Social Security,Social security
+42,Income Security,Other income security
+51,Social Security,Social security
+51,Social Security,Social security
+51,Social Security,Social security
+22,Commerce and Housing Credit,Other advancement of commerce
+53,Energy,"Energy information, policy, and regulation"
+53,Energy,"Energy information, policy, and regulation"
+53,Energy,"Energy information, policy, and regulation"
+29,International Affairs,Conduct of foreign affairs
+50,Veterans Benefits and Services,Income security for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+50,Veterans Benefits and Services,Income security for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+55,Veterans Benefits and Services,"Veterans education, training, and rehabilitation"
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+56,Veterans Benefits and Services,Veterans housing
+56,Veterans Benefits and Services,Veterans housing
+56,Veterans Benefits and Services,Veterans housing
+50,Veterans Benefits and Services,Income security for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+50,Veterans Benefits and Services,Income security for veterans
+50,Veterans Benefits and Services,Income security for veterans
+50,Veterans Benefits and Services,Income security for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+56,Veterans Benefits and Services,Veterans housing
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+54,Veterans Benefits and Services,Hospital and medical care for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+50,Veterans Benefits and Services,Income security for veterans
+55,Veterans Benefits and Services,"Veterans education, training, and rehabilitation"
+50,Veterans Benefits and Services,Income security for veterans
+48,Veterans Benefits and Services,Other veterans benefits and services
+50,Veterans Benefits and Services,Income security for veterans
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+57,"General Science, Space, and Technology",General science and basic research
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+47,Commerce and Housing Credit,Deposit insurance
+47,Commerce and Housing Credit,Deposit insurance
+47,Commerce and Housing Credit,Deposit insurance
+49,General Government,Central personnel management
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+20,Natural Resources and Environment,Recreational resources
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+35,Income Security,General retirement and disability insurance (excluding social se
+35,Income Security,General retirement and disability insurance (excluding social se
+58,Income Security,Unemployment compensation
+58,Income Security,Unemployment compensation
+58,Income Security,Unemployment compensation
+58,Income Security,Unemployment compensation
+35,Income Security,General retirement and disability insurance (excluding social se
+35,Income Security,General retirement and disability insurance (excluding social se
+35,Income Security,General retirement and disability insurance (excluding social se
+58,Income Security,Unemployment compensation
+35,Income Security,General retirement and disability insurance (excluding social se
+35,Income Security,General retirement and disability insurance (excluding social se
+12,Health,Consumer and occupational health and safety
+12,Health,Consumer and occupational health and safety
+49,General Government,Central personnel management
+59,Transportation,Water transportation
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+8,Natural Resources and Environment,Water resources
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+18,Natural Resources and Environment,Other natural resources
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+41,Transportation,Air transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+22,Commerce and Housing Credit,Other advancement of commerce
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+32,National Defense,Defense-related activities
+32,National Defense,Defense-related activities
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+32,National Defense,Defense-related activities
+32,National Defense,Defense-related activities
+60,Transportation,Other transportation
+61,Transportation,Transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+41,Transportation,Air transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+41,Transportation,Air transportation
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+59,Transportation,Water transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+60,Transportation,Other transportation
+40,Transportation,Ground transportation
+40,Transportation,Ground transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+40,Transportation,Ground transportation
+32,National Defense,Defense-related activities
+32,National Defense,Defense-related activities
+11,Community and Regional Development,Disaster relief and insurance
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+62,General Government,General property and records management
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+40,Transportation,Ground transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+41,Transportation,Air transportation
+11,Community and Regional Development,Disaster relief and insurance
+32,National Defense,Defense-related activities
+11,Community and Regional Development,Disaster relief and insurance
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+24,Natural Resources and Environment,Pollution control and abatement
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+11,Community and Regional Development,Disaster relief and insurance
+11,Community and Regional Development,Disaster relief and insurance
+11,Community and Regional Development,Disaster relief and insurance
+17,Income Security,Food and nutrition assistance
+11,Community and Regional Development,Disaster relief and insurance
+11,Community and Regional Development,Disaster relief and insurance
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+60,Transportation,Other transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+32,National Defense,Defense-related activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+32,National Defense,Defense-related activities
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+59,Transportation,Water transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+59,Transportation,Water transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+41,Transportation,Air transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+19,General Government,General purpose fiscal assistance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+11,Community and Regional Development,Disaster relief and insurance
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+59,Transportation,Water transportation
+24,Natural Resources and Environment,Pollution control and abatement
+11,Community and Regional Development,Disaster relief and insurance
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+30,Administration of Justice,Federal law enforcement activities
+59,Transportation,Water transportation
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+30,Administration of Justice,Federal law enforcement activities
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+4,International Affairs,International security assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+4,International Affairs,International security assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+21,Income Security,Federal employee retirement and disability
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+11,Community and Regional Development,Disaster relief and insurance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+11,Community and Regional Development,Disaster relief and insurance
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+30,Administration of Justice,Federal law enforcement activities
+27,Health,Health care services
+27,Health,Health care services
+39,"Education, Training, Employment, and Social Services",Social services
+63,Health,Health research and training
+27,Health,Health care services
+63,Health,Health research and training
+12,Health,Consumer and occupational health and safety
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+52,Medicare,Medicare
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+52,Medicare,Medicare
+27,Health,Health care services
+27,Health,Health care services
+52,Medicare,Medicare
+52,Medicare,Medicare
+12,Health,Consumer and occupational health and safety
+12,Health,Consumer and occupational health and safety
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+63,Health,Health research and training
+64,Health,Health care services;Health research and training
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+42,Income Security,Other income security
+42,Income Security,Other income security
+42,Income Security,Other income security
+34,"Education, Training, Employment, and Social Services",Training and employment
+39,"Education, Training, Employment, and Social Services",Social services
+42,Income Security,Other income security
+42,Income Security,Other income security
+42,Income Security,Other income security
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+42,Income Security,Other income security
+42,Income Security,Other income security
+42,Income Security,Other income security
+42,Income Security,Other income security
+63,Health,Health research and training
+52,Medicare,Medicare
+63,Health,Health research and training
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+12,Health,Consumer and occupational health and safety
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+12,Health,Consumer and occupational health and safety
+27,Health,Health care services
+63,Health,Health research and training
+63,Health,Health research and training
+12,Health,Consumer and occupational health and safety
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+12,Health,Consumer and occupational health and safety
+27,Health,Health care services
+27,Health,Health care services
+63,Health,Health research and training
+27,Health,Health care services
+65,Governmental Receipts,Governmental Receipts
+65,Governmental Receipts,Governmental Receipts
+65,Governmental Receipts,Governmental Receipts
+65,Governmental Receipts,Governmental Receipts
+52,Medicare,Medicare
+52,Medicare,Medicare
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+52,Medicare,Medicare
+52,Medicare,Medicare
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+27,Health,Health care services
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+41,Transportation,Air transportation
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+66,"General Science, Space, and Technology","Space flight, research, and supporting activities"
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+5,International Affairs,International financial programs
+5,International Affairs,International financial programs
+5,International Affairs,International financial programs
+50,Veterans Benefits and Services,Income security for veterans
+50,Veterans Benefits and Services,Income security for veterans
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+30,Administration of Justice,Federal law enforcement activities
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+16,Commerce and Housing Credit,Mortgage credit
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+7,Community and Regional Development,Community development
+7,Community and Regional Development,Community development
+30,Administration of Justice,Federal law enforcement activities
+7,Community and Regional Development,Community development
+16,Commerce and Housing Credit,Mortgage credit
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+9,Income Security,Housing assistance
+16,Commerce and Housing Credit,Mortgage credit
+16,Commerce and Housing Credit,Mortgage credit
+16,Commerce and Housing Credit,Mortgage credit
+7,Community and Regional Development,Community development
+9,Income Security,Housing assistance
+22,Commerce and Housing Credit,Other advancement of commerce
+9,Income Security,Housing assistance
+62,General Government,General property and records management
+62,General Government,General property and records management
+62,General Government,General property and records management
+62,General Government,General property and records management
+62,General Government,General property and records management
+62,General Government,General property and records management
+62,General Government,General property and records management
+15,Energy,Energy supply
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+15,Energy,Energy supply
+46,Energy,Energy conservation
+53,Energy,"Energy information, policy, and regulation"
+67,Energy,Emergency energy preparedness
+15,Energy,Energy supply
+57,"General Science, Space, and Technology",General science and basic research
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+67,Energy,Emergency energy preparedness
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+68,National Defense,Atomic energy defense activities
+68,National Defense,Atomic energy defense activities
+68,National Defense,Atomic energy defense activities
+68,National Defense,Atomic energy defense activities
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+68,National Defense,Atomic energy defense activities
+68,National Defense,Atomic energy defense activities
+68,National Defense,Atomic energy defense activities
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+46,Energy,Energy conservation
+46,Energy,Energy conservation
+15,Energy,Energy supply
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+15,Energy,Energy supply
+46,Energy,Energy conservation
+15,Energy,Energy supply
+46,Energy,Energy conservation
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+15,Energy,Energy supply
+15,Energy,Energy supply
+19,General Government,General purpose fiscal assistance
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+67,Energy,Emergency energy preparedness
+15,Energy,Energy supply
+67,Energy,Emergency energy preparedness
+15,Energy,Energy supply
+15,Energy,Energy supply
+15,Energy,Energy supply
+53,Energy,"Energy information, policy, and regulation"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+39,"Education, Training, Employment, and Social Services",Social services
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+30,Administration of Justice,Federal law enforcement activities
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+28,"Education, Training, Employment, and Social Services","Elementary, secondary, and vocational education"
+30,Administration of Justice,Federal law enforcement activities
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+69,"Education, Training, Employment, and Social Services",Other labor services
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+68,National Defense,Atomic energy defense activities
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+18,Natural Resources and Environment,Other natural resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+8,Natural Resources and Environment,Water resources
+32,National Defense,Defense-related activities
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+32,National Defense,Defense-related activities
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+27,Health,Health care services
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+21,Income Security,Federal employee retirement and disability
+55,Veterans Benefits and Services,"Veterans education, training, and rehabilitation"
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+36,National Defense,Department of Defense-Military
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+3,International Affairs,International development and humanitarian assistance
+1,General Government,Legislative functions
+62,General Government,General property and records management
+30,Administration of Justice,Federal law enforcement activities
+20,Natural Resources and Environment,Recreational resources
+20,Natural Resources and Environment,Recreational resources
+13,Community and Regional Development,Area and regional development
+30,Administration of Justice,Federal law enforcement activities
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+7,Community and Regional Development,Community development
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+30,Administration of Justice,Federal law enforcement activities
+69,"Education, Training, Employment, and Social Services",Other labor services
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+48,Veterans Benefits and Services,Other veterans benefits and services
+68,National Defense,Atomic energy defense activities
+19,General Government,General purpose fiscal assistance
+19,General Government,General purpose fiscal assistance
+19,General Government,General purpose fiscal assistance
+10,Agriculture,Farm income stabilization
+25,General Government,Other general government
+22,Commerce and Housing Credit,Other advancement of commerce
+12,Health,Consumer and occupational health and safety
+45,"Education, Training, Employment, and Social Services",Higher education
+45,"Education, Training, Employment, and Social Services",Higher education
+37,International Affairs,Foreign information and exchange activities
+49,General Government,Central personnel management
+7,Community and Regional Development,Community development
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+69,"Education, Training, Employment, and Social Services",Other labor services
+65,Governmental Receipts,Governmental Receipts
+65,Governmental Receipts,Governmental Receipts
+69,"Education, Training, Employment, and Social Services",Other labor services
+60,Transportation,Other transportation
+60,Transportation,Other transportation
+15,Energy,Energy supply
+12,Health,Consumer and occupational health and safety
+49,General Government,Central personnel management
+25,General Government,Other general government
+13,Community and Regional Development,Area and regional development
+40,Transportation,Ground transportation
+25,General Government,Other general government
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+23,"Education, Training, Employment, and Social Services",Research and general education aids
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+39,"Education, Training, Employment, and Social Services",Social services
+45,"Education, Training, Employment, and Social Services",Higher education
+18,Natural Resources and Environment,Other natural resources
+45,"Education, Training, Employment, and Social Services",Higher education
+24,Natural Resources and Environment,Pollution control and abatement
+24,Natural Resources and Environment,Pollution control and abatement
+2,Administration of Justice,Federal litigative and judicial activities
+20,Natural Resources and Environment,Recreational resources
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+37,International Affairs,Foreign information and exchange activities
+21,Income Security,Federal employee retirement and disability
+37,International Affairs,Foreign information and exchange activities
+13,Community and Regional Development,Area and regional development
+3,International Affairs,International development and humanitarian assistance
+25,General Government,Other general government
+25,General Government,Other general government
+25,General Government,Other general government
+32,National Defense,Defense-related activities
+25,General Government,Other general government
+25,General Government,Other general government
+13,Community and Regional Development,Area and regional development
+13,Community and Regional Development,Area and regional development
+63,Health,Health research and training
+63,Health,Health research and training
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
+22,Commerce and Housing Credit,Other advancement of commerce
